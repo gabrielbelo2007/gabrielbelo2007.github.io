@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: default
 title: Blogging Like a Hacker
 ---
 
 # Hello World!
 
-> Teste MD
+Esse e o primeiro conteudo do meu blog!

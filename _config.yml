@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: Gabriel's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Meu Site Jekyll
+description: Um site simples publicado com GitHub Pages e Jekyll.
+theme: jekyll-theme-minimal # Ou outro tema de sua escolha, ou omita para usar o tema padrão
+markdown: kramdown
