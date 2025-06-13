@@ -1,5 +1,5 @@
 title: Meu Site Jekyll
 description: Um site simples publicado com GitHub Pages e Jekyll.
-theme: default # Ou outro tema de sua escolha, ou omita para usar o tema padrão
+theme: minima # Ou outro tema de sua escolha, ou omita para usar o tema padrão
 markdown: kramdown
 baseurl: ""
