@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Minha Página Principal
+title: Pagina Principal
 ---
 
 # Inteligência Artificial: Desvendando o Conceito
