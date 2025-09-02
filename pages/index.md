@@ -1,7 +1,6 @@
 ---
 layout: default
 title: CODIGUIN
-permalink: /
 ---
 
 <div class="container_latest">
@@ -22,7 +21,7 @@ permalink: /
     {% for post in site.posts %}
         <div class="posts_order">
             {% if post != 1%}
-                <img src="{{ site.baseurl}}/{{ post.image }}">
+                <img src="{{ post.image | relative_url }}">
                 <div> 
                     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
                     <h3> {{ post.subtitle }} </h3>
