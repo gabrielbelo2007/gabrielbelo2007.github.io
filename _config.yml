@@ -3,7 +3,6 @@ email: gabrielbelo.dev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Esse e um blog pessoal, onde serão postados conteúdos diversos relacionados aos meus estudos no CIn - UFPE, 
   enquanto graduando no Bacharel em IA.
-baseurl: "gabrielbelo2007.github.io" # the subpath of your site, e.g. /blog
 url: "gabrielbelo2007.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  gabrielbelo2007
 lang: pt-BR
@@ -15,5 +14,3 @@ kramdown:
   input: GFM 
 plugins:
   - jekyll-feed
-
-
