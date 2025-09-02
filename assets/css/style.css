@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
 
 /* Variáveis CSS */
 :root {
-  --text-color: #000000;
-  --background-color: #f8f8f8;
-  --brand-color: rgb(54, 59, 150);
-  --header-font: "Ubuntu", Ubuntu, Arial, sans-serif;
+  --text-color: #61d8f5;
+  --background-color: #00041a;
+  --brand-color: #141835;
+  --header-font: "Jersey 15", sans-serif;
   --body-font: "Work Sans", sans-serif;
 }
 
@@ -15,7 +16,7 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: white;
+  background-color: var(--background-color);
   color: var(--text-color);
   font-size: 16px; /* Tamanho base de fonte para mobile */
 }
@@ -32,34 +33,33 @@ a:hover {
 
 h2 {
   font-family: var(--header-font);
-  color: var(--brand-color);
+  color: var(--text-color);
   margin-top: 0.2em;
   margin-bottom: 0.2em;
-  font-size: 2em; /* Ajuste para mobile */
+  font-size: 1000px; /* Ajuste para mobile */
 }
 
 /* Cabeçalho do Site */
 .site-header {
   background-color: var(--brand-color);
   color: rgb(0, 0, 0);
-  border-bottom: #0e0e0e 0.6px hidden;
+  border-bottom: #487185 0.1px solid;
   padding: 15px;
   display: flex;
-  flex-direction: column; /* Pilha itens em mobile */
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   text-align: center;
 
   h1 {
     margin: 0;
+    padding-left: 15px;
     font-family: var(--header-font);
     font-size: 1.8em; /* Ajuste para mobile */
   }
 
   .site-title {
-    color: rgb(255, 255, 255);
+    color: #61d8f5;
     opacity: 0.8;
-    margin-bottom: 10px; /* Espaço entre título e navegação */
   }
 
   .site-title:hover {
@@ -67,19 +67,19 @@ h2 {
   }
 
   .site-nav {
-    width: 100%; /* Ocupa a largura total */
-    margin-top: 10px;
     ul {
       list-style: none;
       padding: 0;
       margin: 0;
       display: flex;
-      flex-direction: column; /* Links da navegação empilhados */
+      justify-content: flex-end;
       align-items: center;
       li {
         margin: 5px 0; /* Espaço vertical entre os links */
         a {
-          color: rgb(255, 255, 255);
+          font-size: 1.2em;
+          font-family: var(--header-font);
+          color: var(--text-color);
           font-weight: bold;
           padding: 5px 10px; /* Aumenta a área clicável */
         }
@@ -177,7 +177,7 @@ h2 {
   text-align: center;
   padding: 15px; /* Padding menor */
   margin-top: 20px; /* Margem menor */
-  border-top: 1px solid #ddd;
+  border-top: #487185 0.1px solid;
   color: #666;
   font-size: 0.8em; /* Ajuste para mobile */
 
