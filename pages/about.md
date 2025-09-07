@@ -4,10 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Esta proposta surge da necessidade urgente de disseminar conteúdos técnicos e reflexões críticas sobre os avanços recentes da Inteligência Artificial (IA). 
+Me chamo Gabriel Azevedo, sou estudante do primeiro período em Inteligência Artificial pelo CIn - UFPE, tenho 18 anos e moro em Recife, PE. 
 
-Dessa forma através da orientação do Professor Pablo Sampaio, do aluno Gabriel Azevedo, esse projeto e construído com o objetivo de:
+A proposta desse blog, é transpor o meu aprendizado no meio da programação e dos conteúdos da faculdade como um todo, em uma linguagem escrita, com o intuito de me auxiliar na fixação dos conteúdos nos quais eu tenho contato, e aliado a isso talvez contribuir com algum interessado que acesse esse blog, mesmo que a divulgação do mesmo não pretenda inicialmente se tornar algum foco.
 
-> Divulgar as novidades técnicas em português, com viés prático,
-> por meio de um blog, visando atingir alunos, profissionais e,
-> possivelmente, pesquisadores da área de Computação.
+A ideia surgiu após um projeto de extensão que participei, que tratava de disseminar conteúdos a respeito dos avanços e novidades da inteligência artificial ao redor do mundo, após a experiência de construir esses posts, percebi o quanto de propriedade sobre um assunto é possível alcançar ao tentar ensina-ló para outra pessoa, e é com esse direcionamento que serão criado os posts desse blog.
+
+Dessa forma os principais focos de contéudo serão:
+
+- Programação: Conteúdos relacionados ao aprendizado de linguagens, algoritmos, estruturas de dados... (talvez sendo segregado em mais categorias posteriormente).
+- Matemática: Conteúdos relacionados ao aprendizado das disciplinas de exatas presente na faculdade.
+- LeetCode: Explicação da resolução de problemas de LeetCode.
+
+Pretendo manter uma meta semanal de posts, visando meu objetivo de aprendizado e fixação, caso você seja um curioso e tenha curtido os posts e queira dar alguma sugestão, [entre em contato](https://linktr.ee/gabrielbelodev).

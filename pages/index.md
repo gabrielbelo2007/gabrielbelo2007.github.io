@@ -1,12 +1,12 @@
 ---
 layout: default
 title: CODIGUIN
+permalink: /
 ---
 
 <div class="container_latest">
     {% for post in site.posts limit: 2 %}
         <div class="posts_latest">
-            <img src="{{ post.image | relative_url }}">
             <div> 
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
                 <h3> {{ post.subtitle }} </h3>
@@ -20,7 +20,6 @@ title: CODIGUIN
 <div class="container_posts">
     {% for post in site.posts %}
         <div class="posts_order">
-            <img src="{{ post.image | relative_url }}">
             <div> 
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
                 <h3> {{ post.subtitle }} </h3>
