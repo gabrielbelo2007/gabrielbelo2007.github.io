@@ -27,6 +27,13 @@ body {
   overflow-x: hidden;
 }
 
+ul {
+  a {
+    font-family: Work Sans, sans-serif;
+    font-size: 1em;
+  }
+}
+
 a {
   color: var(--text-color);
   opacity: 0.7;
