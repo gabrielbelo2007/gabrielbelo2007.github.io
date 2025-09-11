@@ -10,6 +10,8 @@ A proposta do blog **CODIGUIN** (nome escolhido pela minha querida namorada), é
 
 A ideia surgiu após um projeto de extensão que participei, que tratava de disseminar conteúdos a respeito dos avanços e novidades da inteligência artificial ao redor do mundo, após a experiência de construir esses posts, percebi o quanto de propriedade sobre um assunto é possível alcançar ao tentar ensina-ló para outra pessoa, e é com esse direcionamento que serão criado os posts desse blog.
 
+> Entretando, os fins didáticos podem ser questionáveis pois dependem da minha interpretação do assunto e embora vise a minha propriedade no assunto, certas partes (mais complexas ou muito básicas) podem acabar ficando de lado, visto que não quero transformar a produção dos posts em algo desgastante e demorado a priori.
+
 Dessa forma os principais focos de contéudo serão:
 
 - Programação: Conteúdos relacionados ao aprendizado de linguagens, algoritmos, estruturas de dados... (talvez sendo segregado em mais categorias posteriormente).
