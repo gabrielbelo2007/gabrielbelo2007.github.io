@@ -4,6 +4,7 @@ title: CODIGUIN
 permalink: /
 ---
 
+<h2>Recentes</h2>
 <div class="container_latest">
     {% for post in site.posts limit: 2 %}
         <div class="posts_latest">
@@ -16,7 +17,7 @@ permalink: /
     {% endfor %}
 </div>
 
-<h2>Recentes</h2>
+<h2>Posts</h2>
 <div class="container_posts">
     {% for post in site.posts %}
         <div class="posts_order">
