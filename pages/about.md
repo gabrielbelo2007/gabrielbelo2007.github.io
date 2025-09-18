@@ -14,7 +14,7 @@ A ideia surgiu após um projeto de extensão do qual participei, que tratava de 
 
 Dessa forma, os principais focos de conteúdo serão:
 
-- Programação: Conteúdos relacionados ao aprendizado de linguagens, algoritmos, estruturas de dados... (talvez sendo segregados em mais categorias posteriormente).
+- Computação: Conteúdos relacionados ao aprendizado de teorias computacionais, linguagens, algoritmos, estruturas de dados... (talvez sendo segregado em mais categorias posteriormente).
 - Matemática: Conteúdos relacionados ao aprendizado das disciplinas de exatas presentes na faculdade.
 - LeetCode: Explicação da resolução de problemas de LeetCode.
 - Portfólio: Explicação sobre o processo de construção de projetos.
