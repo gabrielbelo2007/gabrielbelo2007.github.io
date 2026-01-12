@@ -12,11 +12,13 @@ A ideia surgiu após um projeto de extensão do qual participei, que tratava de 
 
 > Entretanto, os fins didáticos podem ser questionáveis, pois dependem da minha interpretação do assunto e, embora vise a minha propriedade no tema, certas partes (mais complexas ou muito básicas) podem acabar ficando de lado, visto que não quero transformar a produção dos posts em algo desgastante e demorado a priori.
 
-Dessa forma, os principais focos de conteúdo serão:
+Dessa forma, os principais focos de conteúdo serão (sujeito a mudanças recorrentes):
 
 - Computação: Conteúdos relacionados ao aprendizado de teorias computacionais, linguagens, algoritmos, estruturas de dados... (talvez sendo segregado em mais categorias posteriormente).
-- Matemática: Conteúdos relacionados ao aprendizado das disciplinas de exatas presentes na faculdade.
-- LeetCode: Explicação da resolução de problemas de LeetCode.
+- Matemática: Conteúdos relacionados ao aprendizado das disciplinas de exatas presentes na faculdade, ou possíveis curiosidades no geral.
+- LeetCode: Explicação da resolução de problemas de programação, do [LeetCode](https://leetcode.com/) ou de outras áreas como [Kaggle](https://www.kaggle.com/), [PWN.COLLEGE](https://pwn.college/).
+- IA: Conteúdos relacionados a Inteligência Artificial, com teor mais teórico.
+- Cyber: Conteúdos relacionados a CyberSegurança, com teor mais teórico.
 - Portfólio: Explicação sobre o processo de construção de projetos.
 
 Pretendo manter uma meta semanal de posts, visando meu objetivo de aprendizado e fixação. Caso você seja um curioso, tenha curtido os posts e queira dar alguma sugestão, [entre em contato](https://linktr.ee/gabrielbelodev).
