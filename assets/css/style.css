@@ -495,6 +495,11 @@ blockquote {
   border: none;
 }
 
+.function-plot .grid line { stroke: #555 !important; stroke-opacity: 0.7; }
+.function-plot .axis text { fill: white !important; font-family: 'Times New Roman', serif; }
+.function-plot .axis path, .function-plot .axis line { stroke: white !important; }
+.function-plot .top-level { fill: white; }
+
 /* --- Media Queries para Telas Maiores --- */
 @media (min-width: 768px) {
   body {
