@@ -19,11 +19,20 @@
 <body>
   {% include header.html %}
 
-  <main class="content-wrapper">
-    {{ content }}
-  </main>
+  <div class="main-container">
+    <main class="content-wrapper">
+      {{ content }}
+    </main>
+  
+    {% include footer.html %}
+  </div>
 
-  {% include footer.html %}
+  <script>
+    setInterval(() => {
+      document.getElementById('clock').innerText = new Date().toLocaleTimeString();
+    }, 1000);
+  </script>
+
 </body>
 </html>
 
