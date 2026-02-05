@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Me chamo Gabriel Azevedo, sou estudante de Inteligência Artificial pelo CIn - UFPE, tenho 18 anos e moro em Recife, PE. 
+Me chamo Gabriel Belo, sou estudante de Inteligência Artificial pelo CIn - UFPE. 
 
 A proposta do blog **CODIGUIN** (nome escolhido pela minha querida namorada) é transpor o meu aprendizado no meio da computação e dos conteúdos da faculdade como um todo, em uma linguagem escrita, com o intuito de me auxiliar na fixação dos conteúdos com os quais tenho contato e, aliado a isso, talvez contribuir com algum interessado que acesse este blog.
 
