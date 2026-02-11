@@ -81,9 +81,24 @@ h2 {
   text-shadow: 0 0 5px var(--dim-green); /* Efeito Glow */
 }
 
+h4 {
+  font-size: 1.2em;
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+}
+
 p {
   color: var(--text-color);
   font-size: 1em;
+}
+
+.post li {
+  margin-left: 40px;
+  padding: 2px;
+}
+
+.post ul {
+  padding: 10px;
 }
 
 /* Cabeçalho do Site */
@@ -218,7 +233,7 @@ p {
 
 .post-content p {
   line-height: 1.7em;
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
   font-size: 0.95em;
 }
 
@@ -279,12 +294,12 @@ p {
 
 .container_latest div a,
 .container_posts div a {
-  color: var(--text-color);
+  color: var(--matrix-green);
 }
 
 .container_latest div h3,
 .container_posts div h3 {
-  color: var(--matrix-green);
+  color: var(--text-color);
   font-family: var(--header-font);
   font-size: 1.2em;
 }
@@ -312,7 +327,7 @@ p {
 }
 
 .posts_latest p, .posts p, .posts_order p {
-  font-size: 0.9em;
+  font-size: 0.8em;
   color: #aaa;
   text-align: center;
   margin: 5px 0 15px 0;
@@ -324,6 +339,36 @@ p {
   color: var(--matrix-green);
   font-family: var(--header-font);
   letter-spacing: 1px;
+}
+
+.posts_latest h3 {
+  color: var(--text-color);
+}
+
+.date {
+  font-size: 0.75em;
+}
+
+.tags-container {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+/* Estilização individual da tag */
+.tag {
+  font-size: 0.58em;
+  color: #00FF41; /* O verde clássico da imagem */
+  
+  padding: 4px 12px;
+  border: 1px solid #00FF41;
+  border-radius: 20px; /* Cria o efeito circular/pílula */
+  
+  background-color: rgba(0, 255, 65, 0.1); /* Fundo sutil para destaque */
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+  cursor: pointer;
 }
 
 /* Contêiner de Posts (Geral) */
@@ -646,7 +691,7 @@ blockquote {
 
   /* Títulos e Subtítulos ajustados */
   .posts h3, .posts_latest h3, .posts_order h3 {
-    font-size: 1.4em !important;
+    font-size: 1.4em;
     margin-bottom: 5px;
   }
 
